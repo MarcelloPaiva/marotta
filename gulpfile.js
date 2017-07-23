@@ -1,3 +1,5 @@
+// Gulp dependencies
+
 var autoprefixer       = require('gulp-autoprefixer');
 var beeper             = require('beeper');
 var browserSync        = require('browser-sync');
